@@ -1,1 +1,54 @@
 /*Ini CSS */
+
+.main-title{
+    text-align: center;
+
+}
+main {
+    display: flex;
+}
+
+form {
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+aside {
+    padding: 32px;
+}
+
+.button {
+    height: 32px;
+    border: none;
+    border-radius: 8px;
+}
+
+.form-btn-container {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.bg-paleturquoise {
+    background-color: paleturquoise;
+}
+
+.bg-reset {
+    background-color: brown;
+    color: white;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+footer {
+    text-align: center;
+}
